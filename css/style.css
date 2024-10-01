@@ -1,0 +1,12 @@
+.header,.body{
+	margin: 0 auto;
+	width: 90%;
+	font-family: sans-serif;
+	text-align: justify;
+}
+.text{
+	background-color: darkgray;
+}
+.text-center{
+	background-color: darkgray;
+}
